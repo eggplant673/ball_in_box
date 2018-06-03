@@ -2,6 +2,7 @@ import math
 import ball_in_box.ballinbox as bb
 import ball_in_box.validate as val
 
+#函数
 def area_sum(circles):
     area = 0.0
     for circle in circles:
